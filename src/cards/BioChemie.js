@@ -33,15 +33,18 @@ const BioChemie = ({ classes }) => (
       zwischen privaten und gewerblichen Tierliebhabern und in der Standardisierung von tierischen
       Hybrid-Maker-Kits. Zusammen mit der „Hundkatzenschweinerei@Home GmbH“, einem 2016 gegründeten
       Berliner Unternehmen, entwickelt der Verein ein Maker-Kit zur Hybridisierung von Tieren.
-      <br />
+      <br /><br />
       <b>Mammel Starter-Kit:</b> Das Mammel Starter-Kit eignet sich ausschließlich zur
       Hybridisierung kleiner Säugetiere (Hamstern, Meerschwein, Kaninchen, etc.).
+<br />
       <b>Mammel Advanced-Kit:</b> Mit dem Mammel Advanced-Kit können größere Säugetiere hybridisiert
       werden (Schafe, Schweine, Tiger, Affen, etc.).
+      <br />
       <b>Hybrid Pro:</b> Das Hybrid Pro ist das teuerste Set. Im Gegensatz zu den beiden anderen
       Kits, beschränkt es sich nicht auf die Hybridisierung von Säugetieren. Vögel, Fische, kleine
-      und große Säugetiere können gekreuzt werden. Das Unternehmen verspricht eine Erfolgsrate von
-      49%.
+      und große Säugetiere können gekreuzt werden. 
+      <br /><br />
+        Das Unternehmen verspricht eine Erfolgsrate von 49%.
     </Typography>
   </CardTemplate>
 );
