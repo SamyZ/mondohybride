@@ -2,10 +2,10 @@ import React from 'react';
 import { withStyles } from 'material-ui/styles';
 import Grid from 'material-ui/Grid';
 import Definition from './cards/Definition';
-import PopCulture from './cards/PopCulture';
-import Mythology from './cards/Mythology';
-import BioEngineering from './cards/BioEngineering';
+import DefinitionUpdate from './cards/DefinitionUpdate';
 import BioChemie from './cards/BioChemie';
+import Mythology from './cards/Mythology';
+import PopCulture from './cards/PopCulture';
 
 const styles = theme => ({
   main: {
