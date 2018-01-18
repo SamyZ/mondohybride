@@ -22,18 +22,27 @@ const BioChemie = ({ classes }) => (
       Bahnbrechende Forschungsergebnisse zum Thema „Genome editing and animal hybride development
       with CRispR/CAS“ des Instituts für Angewandte Hundkatzenschweinerein um die Jahrundertwende,
       verhalfen der Biohacking Szene zum Durchbruch. Einer der ehemaligen Mitarbeiter des Instituts
-      ist Martin Wächter. Er fasste kurz nach der Veröffentlichung der Forschungsergebnisse den Entschluss die
-      Informationen aufzuarbeiten und der breiten Bevölkerung zur Verfügung zu stellen. So entstand
-      der Verein Hybridliebhaber e.V., welcher seither im Mittelpunkt tierischer Hybridentwicklungen
-      steht. Der Verein zählt zur Mitte diesen Jahres 5.830 Mitglieder. 54% sind private Katzen- oder
-      Hundehalter und ca. 37% lassen sich gewerblichen Agrarbetrieben zuordnen.
-  <br/>
-  Die größten Aufgaben des Vereins liegen in der öffentlichen Aufklärungsarbeit, im Austausch zwischen privaten und gewerblichen Tierliebhabern und in der Standardisierung von tierischen Hybrid-Maker-Kits. Zusammen mit der „Hundkatzenschweinerei@Home GmbH“, einem 2016 gegründeten Berliner Unternehmen, entwickelt der Verein ein Maker-Kit zur Hybridisierung von Tieren.
-<br/>
-  <b>Mammel Starter-Kit:</b> Das Mammel Starter-Kit eignet sich ausschließlich zur Hybridisierung kleiner Säugetiere (Hamstern, Meerschwein, Kaninchen, etc.).
-<b>Mammel Advanced-Kit:</b> Mit dem Mammel Advanced-Kit können größere Säugetiere hybridisiert werden (Schafe, Schweine, Tiger, Affen, etc.).
-<b>Hybrid Pro:</b> Das Hybrid Pro ist das teuerste Set. Im Gegensatz zu den beiden anderen Kits, beschränkt es sich nicht auf die Hybridisierung von Säugetieren. Vögel, Fische, kleine und große Säugetiere können gekreuzt werden.
-Das Unternehmen verspricht eine Erfolgsrate von 49%.
+      ist Martin Wächter. Er fasste kurz nach der Veröffentlichung der Forschungsergebnisse den
+      Entschluss die Informationen aufzuarbeiten und der breiten Bevölkerung zur Verfügung zu
+      stellen. So entstand der Verein Hybridliebhaber e.V., welcher seither im Mittelpunkt
+      tierischer Hybridentwicklungen steht. Der Verein zählt zur Mitte diesen Jahres 5.830
+      Mitglieder. 54% sind private Katzen- oder Hundehalter und ca. 37% lassen sich gewerblichen
+      Agrarbetrieben zuordnen.
+      <br />
+      Die größten Aufgaben des Vereins liegen in der öffentlichen Aufklärungsarbeit, im Austausch
+      zwischen privaten und gewerblichen Tierliebhabern und in der Standardisierung von tierischen
+      Hybrid-Maker-Kits. Zusammen mit der „Hundkatzenschweinerei@Home GmbH“, einem 2016 gegründeten
+      Berliner Unternehmen, entwickelt der Verein ein Maker-Kit zur Hybridisierung von Tieren.
+      <br />
+      <b>Mammel Starter-Kit:</b> Das Mammel Starter-Kit eignet sich ausschließlich zur
+      Hybridisierung kleiner Säugetiere (Hamstern, Meerschwein, Kaninchen, etc.).
+      <b>Mammel Advanced-Kit:</b> Mit dem Mammel Advanced-Kit können größere Säugetiere hybridisiert
+      werden (Schafe, Schweine, Tiger, Affen, etc.).
+      <b>Hybrid Pro:</b> Das Hybrid Pro ist das teuerste Set. Im Gegensatz zu den beiden anderen
+      Kits, beschränkt es sich nicht auf die Hybridisierung von Säugetieren. Vögel, Fische, kleine
+      und große Säugetiere können gekreuzt werden. Das Unternehmen verspricht eine Erfolgsrate von
+      49%.
+    </Typography>
   </CardTemplate>
 );
 

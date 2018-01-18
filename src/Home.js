@@ -30,7 +30,7 @@ const Home = ({ classes }) => (
         <Definition />
       </Grid>
       <Grid item xs={12} sm={12} md={6}>
-        <PopCulture />
+        <Mythology />
       </Grid>
       <Grid item xs={12} sm={12} md={6}>
         <BioEngineering />
@@ -39,7 +39,7 @@ const Home = ({ classes }) => (
         <BioChemie />
       </Grid>
       <Grid item xs={12} sm={12} md={6}>
-        <Mythology />
+        <PopCulture />
       </Grid>
     </Grid>
   </div>
