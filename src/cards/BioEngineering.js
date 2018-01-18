@@ -16,10 +16,7 @@ const styles = theme => ({
 });
 
 const BioEngineering = ({ classes }) => (
-  <CardTemplate
-    headline="Bioengineering und Schweinereien - die Technik"
-    image="https://burst.shopifycdn.com/photos/black-brown-goat_925x.jpg"
-  >
+  <CardTemplate headline="Bioengineering und Schweinereien - die Technik">
     <Typography component="p" className={classes.paragraph}>
       Hundkatzenschweinereien sind ein neues Phänomen. Es seit kurzem ist es möglich, auch außerhalb
       von Laboratorien mit millionenteuren Hochleistungsgeräten unaufwändig seine eigenen kleinen
