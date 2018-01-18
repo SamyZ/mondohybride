@@ -23,4 +23,4 @@ Eine Hundkatzenschweinerei ist das Ergebnis einer erfolgreichen Hybridisierung v
   </CardTemplate>
 );
 
-export default withStyles(styles)(Definition);
+export default withStyles(styles)(DefinitionUpdate);
